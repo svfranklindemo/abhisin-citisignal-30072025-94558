@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/pbakliwal/eds-citisignal-source/:/",
-      "/content/pbakliwal/eds-citisignal-source/configuration:/.helix/config.json",
-      "/content/pbakliwal/eds-citisignal-source/metadata:/metadata.json",
-      "/content/pbakliwal/eds-citisignal-source/configs:/configs.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-stage:/configs-stage.json",
-      "/content/pbakliwal/eds-citisignal-source/configs-dev:/configs-dev.json",
-      "/content/pbakliwal/eds-citisignal-source/redirects:/redirects.json",
-      "/content/pbakliwal/eds-citisignal-source/placeholders:/placeholders.json",
-      "/content/pbakliwal/eds-citisignal-source/products/recommended-products:/products/recommended-products.json",
-      "/content/pbakliwal/eds-citisignal-source/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/pbakliwal/eds-citisignal-source/images/products/:/images/products/"
+      "/content/abhisin/new-demo/:/",
+      "/content/abhisin/new-demo/configuration:/.helix/config.json",
+      "/content/abhisin/new-demo/metadata:/metadata.json",
+      "/content/abhisin/new-demo/configs:/configs.json",
+      "/content/abhisin/new-demo/configs-stage:/configs-stage.json",
+      "/content/abhisin/new-demo/configs-dev:/configs-dev.json",
+      "/content/abhisin/new-demo/redirects:/redirects.json",
+      "/content/abhisin/new-demo/placeholders:/placeholders.json",
+      "/content/abhisin/new-demo/products/recommended-products:/products/recommended-products.json",
+      "/content/abhisin/new-demo/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/abhisin/new-demo/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/pbakliwal/eds-citisignal-source",
+      "/content/abhisin/new-demo",
       "/content/dam/citisignal/images/products/"
     ]
 }
